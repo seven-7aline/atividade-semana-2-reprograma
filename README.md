@@ -1,6 +1,7 @@
 ###Atividade-semana-2-reprograma
 
 ##Lógica - Variáveis, Tipos de Dados e Operadores 🚀
+
 #Professora: Simaria Conceição
 
 
@@ -20,4 +21,5 @@ A professora foi muito didáditca e atenciosa. A forma prática de explicar poss
 Não pude comparecer na primeira aula do sábado dia 02 de abril, porém com a gravação e a participação na aula de revisão consegui entender o conteúdo.
 
 **Auto-feedback:**
+
  Treinar com mais frequência para gravar os comandos, e assim executar com mais agilidade. 
