@@ -1,8 +1,8 @@
-###Atividade-semana-2-reprograma
+**Atividade-semana-2-reprograma**
 
-##Lógica - Variáveis, Tipos de Dados e Operadores 🚀
+Lógica - Variáveis, Tipos de Dados e Operadores 🚀
 
-#Professora: Simaria Conceição
+**Professora:** Simaria Conceição
 
 
 Nesta aula foi possível aprender a executar alguns comandos para criar váriaveis, as quais podemos subscrever como o **let**, e **const**, a qual armazena informações que não serão alteradas posteriormente. 
